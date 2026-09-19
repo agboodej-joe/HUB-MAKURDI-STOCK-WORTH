@@ -4,10 +4,10 @@ A data analytics project Displaying Hub Makurdi Stock Worth, Cash Sum of Items, 
 ## Project Files
 
 ### Dataset
-[View Hub Makurdi Stock Data](./data/makurdi-hub-stock-data.csv)
+[View Hub Makurdi Stock Data](./data/makurdi-hub-stock-data.xlsx)
 
 ### Analysis Data
-[View Hub Makurdi Worth Data](./data/hub-makurdi-worth.csv)
+[View Hub Makurdi Worth Data](./data/hub-makurdi-worth.xlsx)
 
 ### Excel Files
 [Download Hub Makurdi Worth Excel File](./hub-makurdi-worth.xlsx)
